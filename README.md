@@ -1,6 +1,6 @@
-# Museum Landing Page
+# Muse Frame 
 
-[DEMO LINK](https://PodvAx.github.io/Museum_landing/)
+[DEMO LINK](https://PodvAx.github.io/MuseFrame/)
 
 [FIGMA DESIGN](<https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)>)
 
